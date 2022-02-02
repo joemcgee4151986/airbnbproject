@@ -1,3 +1,5 @@
+import React from 'react'
+
 
 import Airbnb from "./airbnb.png";
 import './App.css';
